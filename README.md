@@ -1,0 +1,5 @@
+# YOLOv5_person_count
+使用yolov5检测行人
+使用deepsort追踪行人
+检测人流量
+使用pyqt设计可视化界面
